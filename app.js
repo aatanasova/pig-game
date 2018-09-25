@@ -99,7 +99,7 @@ GAME RULES:
 //     document.querySelector('.dice').style.display = 'none';
 // }
 
-var scores, roundScore, activePlayer, gamePlaying, dice1, winnerPoints;
+var scores, roundScore, activePlayer, gamePlaying, dice1, dice2, winnerPoints;
 
 init();
 
